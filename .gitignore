@@ -1,0 +1,21 @@
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+Atividade prática - Git, GitHub e Python
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+# Configurações de editores
+.vscode/
+.idea/
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+Registre o arquivo no Git:
+git add .gitignore
+git commit -m &quot;Adiciona arquivo gitignore&quot;
